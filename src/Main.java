@@ -3,7 +3,5 @@ public class Main {
         System.out.println("start");
         System.out.println("I'm not loh");
         int a = 0;
-        Work work = new Work();
-        System.out.println(work.GetName());
     }
 }
