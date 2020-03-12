@@ -5,5 +5,6 @@ public class Main {
         int a = 0;
         Work work = new Work();
         System.out.println(work.GetName());
+        int test=0;
     }
 }
