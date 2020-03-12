@@ -3,10 +3,10 @@ public class Main {
         System.out.println("start");
         System.out.println("I'm not loh");
         int a = 0;
-        System.out.println(get_size_of_brain());
+        System.out.println(getSizeOfBrain());
     }
 
-    private static int get_size_of_brain(){
+    private static int getSizeOfBrain(){
         return 32567;
     }
 }
